@@ -16,8 +16,11 @@ Chrome DevTools | Firefox DevTools - Light  | Firefox DevTools - Dark
 :--------------:|:-------------------------:|:----------------------:
 ![Chrome DevTools Theme](assets/chrome-devtools.png)|![Firefox DevTools Theme - Light](assets/firefox-devtools.light.png)|![Firefox DevTools Theme - Dark](assets/firefox-devtools.dark.png)
 
+## NOTE
+- This library enhances [React HTMLTree](https://github.com/Autarc/react-htmltree) for custom theme support
 ## Features
 - standalone react module with inline style definitions
+- support custom theme object
 - default themes include 'Chrome' and 'Firefox' visuals
 - mimics common devtools behavior (like history or uncollapse all descendants)
 - supports universal rendering through difference source types
@@ -81,7 +84,6 @@ To build your own version run `npm run dev` for development (incl. watch) or `np
 - extend example page with style generator
 - checkout memory issue after theme change
 - only render elements in the current viewport (reuse DOM nodes)
-- allow object declaration for a styling a custom theme regarding [freestyle](https://github.com/blakeembrey/free-style)
 - prevent duplicate inline style imports for the select theme
 - extend documentation ([react-docgen](https://github.com/reactjs/react-docgen))
 - add tests for the component using ([enzyme](https://github.com/airbnb/enzyme))

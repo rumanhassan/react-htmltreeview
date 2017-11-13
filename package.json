@@ -4,7 +4,7 @@
   "version": "0.8.1",
   "author": "Stefan Dühring | Autarc <autarc@gmail.com>",
   "bugs": {
-    "url": "https://github.com/Autarc/react-htmltree/issues"
+    "url": "https://github.com/rumanhassan/react-htmltree/issues"
   },
   "dependencies": {
     "classnames": "^2.2.3",
@@ -46,7 +46,7 @@
     "stylus-loader": "^1.4.2",
     "webpack": "^1.12.9"
   },
-  "homepage": "https://github.com/Autarc/react-htmltree",
+  "homepage": "https://github.com/rumanhassan/react-htmltree",
   "keywords": [
     "react",
     "html",
@@ -57,7 +57,7 @@
   "main": "lib/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Autarc/react-htmltree.git"
+    "url": "https://github.com/rumanhassan/react-htmltree.git"
   },
   "scripts": {
     "build": "NODE_ENV=production node build",
