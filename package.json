@@ -1,5 +1,5 @@
 {
-  "name": "react-htmltree",
+  "name": "react-htmltreeview",
   "description": "React component for HTML structures based on a string, react component or DOM node",
   "version": "0.8.1",
   "author": "Stefan Dühring | Autarc <autarc@gmail.com>",
