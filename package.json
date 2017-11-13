@@ -1,7 +1,7 @@
 {
   "name": "react-htmltreeview",
   "description": "React component for HTML structures based on a string, react component or DOM node",
-  "version": "0.8.2",
+  "version": "0.8.4",
   "author": "Ruman Hassan | Ruman <rumanhassan10@gmail.com>",
   "bugs": {
     "url": "https://github.com/rumanhassan/react-htmltreeview/issues"
