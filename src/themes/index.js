@@ -27,7 +27,7 @@ export default (theme) => {
   // TODO:
   // - transform object declaration of styles regarding [freestyle](https://github.com/blakeembrey/free-style)
   // - prevent duplicate style definitions by only including them once
-  if (typeof theme === object) {
+  if (typeof theme === 'object') {
     // Create a stylesheet instance.
     const Style = FreeStyle.create();
     Style.registerStyle(theme);
