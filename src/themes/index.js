@@ -4,8 +4,8 @@
  * Select and combine styles (predefined or customized)
  */
 
-const basicStyles = require('./index.styl')
-import FreeStyle from 'free-style';
+const basicStyles = require('./index.styl');
+const FreeStyle = require('free-style');
 
 const predefinedThemes = {
   'chrome-devtools': require('./chrome-devtools.styl'),
